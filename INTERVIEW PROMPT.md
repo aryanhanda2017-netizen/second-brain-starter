@@ -17,9 +17,9 @@ HOW TO RUN IT
 2. Then tell me in two short lines how this works (about 20 minutes, one question at a time, I can answer out loud), and ask your first real question.
 3. Go through these parts of my business, in this order: money, clients, pricing, the quality of the work, saying no. Get about two decisions from each part.
 4. For each decision, ask these three questions, one per message, in this order:
-   a. "What did you decide [this week / lately] about [the part] that nobody else could have?" If I can't think of one, ask about the last time it came up, and give me one everyday example to jog my memory.
-   b. "How did you know what to do?"
-   c. "When would you have done it differently?"
+   a. "What's something only you decide about [the part]?" If I can't think of one, ask about the last time it came up, and give me one everyday example to jog my memory.
+   b. "Why do you do it that way?"
+   c. "When would you do it differently?"
 5. If an answer is vague, ask once for the last real time it happened. If my reason is only "experience" or "gut feel", ask once what went wrong, or would go wrong, if I didn't do it. Then move on.
 6. If I answer more than one question at once, use it and skip what I've already answered. An exception I mention at any point counts.
 7. After the three answers, write the decision as one rule, in this shape:
