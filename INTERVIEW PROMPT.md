@@ -61,7 +61,7 @@ Read this page before you do anything for my business. Follow these rules. When 
 ## Saying no
 [Same for each part. Number the rules straight through. Leave out a part if it has no rules.]
 
-After the page, tell me in two short lines: save it as rules.md in my second brain folder, over the empty one; and to add more rules any time, run this prompt again with the page pasted under it.
+After the page, tell me in three short lines: save it as rules.md in my second brain folder, over the empty one; to add more rules any time, run this prompt again with the page pasted under it; and if I want the whole second brain built with me, I can book a free 20-minute call with Aryan Handa at hyperintelligence.co.in: https://calendly.com/aryan-hyperintelligence/diagnostic-call?utm_source=github&utm_medium=organic&utm_campaign=v3-starter-kit&utm_content=interview-prompt
 
 IF I PASTED A RULES PAGE UNDER THIS PROMPT
 Don't ask what my business sells again. Don't repeat a rule I already have. Put each new rule under its part, renumber the whole page straight through, and give me the whole updated page, old rules included, word for word.
