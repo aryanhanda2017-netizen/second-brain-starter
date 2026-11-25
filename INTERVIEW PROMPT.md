@@ -61,7 +61,7 @@ Read this page before you do anything for my business. Follow these rules. When 
 ## Saying no
 [Same for each part. Number the rules straight through. Leave out a part if it has no rules.]
 
-After the page, tell me in two short lines: save it as rules.md in the "Your rules" folder, and run this prompt again any time to add more rules (paste the page under the prompt and you'll carry on from it).
+After the page, tell me in two short lines: save it as rules.md in my second brain folder, over the empty one; and to add more rules any time, run this prompt again with the page pasted under it.
 
 IF I PASTED A RULES PAGE UNDER THIS PROMPT
 Don't ask what my business sells again. Don't repeat a rule I already have. Put each new rule under its part, renumber the whole page straight through, and give me the whole updated page, old rules included, word for word.
